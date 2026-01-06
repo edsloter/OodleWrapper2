@@ -1,9 +1,13 @@
 ###############################################
 
 Modified version of UnrealOodleWrapper
+
 see full readme for all changes. 
+
 added `-` as shorthand for stdin/stdout
+
 added parallelism with official SDK methods, see below
+
 ###############################################
 
 # UnrealOodleWrapper
